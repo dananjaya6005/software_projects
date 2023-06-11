@@ -42,7 +42,7 @@ const UserAlert=()=>{
         <Route path='/github' element={<Github />} />
       </Routes>
 
-      <div className='empty_space'></div>
+      <div className='em'></div>
     </><Footer  className="handle_footer"/></>
   );
 }
