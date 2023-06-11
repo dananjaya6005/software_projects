@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/software_projects/static/css/main.9b1b088a.css",
-    "main.js": "/software_projects/static/js/main.705d3c4a.js",
+    "main.css": "/software_projects/static/css/main.ede823c0.css",
+    "main.js": "/software_projects/static/js/main.cfd0bcac.js",
     "static/js/787.c5eca2a4.chunk.js": "/software_projects/static/js/787.c5eca2a4.chunk.js",
     "static/media/werather_app_icon.png": "/software_projects/static/media/werather_app_icon.77167cf4a5a6ed26a289.png",
     "static/media/fa-solid-900.ttf": "/software_projects/static/media/fa-solid-900.4a2cd718d7031b732e76.ttf",
@@ -20,12 +20,12 @@
     "static/media/fa-v4compatibility.woff2": "/software_projects/static/media/fa-v4compatibility.68577e40f3e70067b5da.woff2",
     "static/media/logo.svg": "/software_projects/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/software_projects/index.html",
-    "main.9b1b088a.css.map": "/software_projects/static/css/main.9b1b088a.css.map",
-    "main.705d3c4a.js.map": "/software_projects/static/js/main.705d3c4a.js.map",
+    "main.ede823c0.css.map": "/software_projects/static/css/main.ede823c0.css.map",
+    "main.cfd0bcac.js.map": "/software_projects/static/js/main.cfd0bcac.js.map",
     "787.c5eca2a4.chunk.js.map": "/software_projects/static/js/787.c5eca2a4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9b1b088a.css",
-    "static/js/main.705d3c4a.js"
+    "static/css/main.ede823c0.css",
+    "static/js/main.cfd0bcac.js"
   ]
 }
