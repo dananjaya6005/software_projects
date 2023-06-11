@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+
+.head_txt{
+    display: flex;
+    color: rgb(13, 37, 53);
+    justify-content: center;
+    margin-top: 50px;
+    font-family: 'Changa', sans-serif;
+
+}
+
+.head_info{
+    display: flex;
+    width: 60%;
+    margin: auto;
+    text-align: center;
+    
+}
+
+.sub_text{
+    font-size: 1em;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(77, 77, 77);
+}
+
+.handle_tag{
+    display: flex;
+    justify-content: space-evenly;
+    width: 80%;
+    margin: auto;
+    margin-top: 20px;
+
+}
+.test{
+    width: 50%;
+}
+.get_start_btn {
+    display: flex;
+    color: rgb(255, 255, 255);
+    padding: 12px 20px;
+    border-width: 0;
+    border-radius: 2rem;
+    background-color: rgb(43, 43, 51);
+    justify-content: center;
+    align-items: center; /* Optional, if you want to center vertically as well */
+    margin: auto;
+    margin-top: 40px;
+    
+  }
+
+  .get_start_btn:hover {
+    cursor: pointer;
+    background-color: rgb(110, 110, 110);
+    
+    
+  }
+.threre_card_row{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-top:40px ;
+}
+  
