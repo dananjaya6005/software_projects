@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/software_projects/static/css/main.9b1b088a.css",
+    "main.js": "/software_projects/static/js/main.30af3de2.js",
+    "static/js/787.c5eca2a4.chunk.js": "/software_projects/static/js/787.c5eca2a4.chunk.js",
+    "static/media/werather_app_icon.png": "/software_projects/static/media/werather_app_icon.77167cf4a5a6ed26a289.png",
+    "static/media/fa-solid-900.ttf": "/software_projects/static/media/fa-solid-900.4a2cd718d7031b732e76.ttf",
+    "static/media/book_search app.jpg": "/software_projects/static/media/book_search app.b1a90baa8b40d1c71cbe.jpg",
+    "static/media/dream_travel.png": "/software_projects/static/media/dream_travel.da1a73c9b5f45411e59b.png",
+    "static/media/fa-brands-400.ttf": "/software_projects/static/media/fa-brands-400.150de8eaa454d669c405.ttf",
+    "static/media/fa-solid-900.woff2": "/software_projects/static/media/fa-solid-900.bb975c966c37455a1bc3.woff2",
+    "static/media/bgimage.jpg": "/software_projects/static/media/bgimage.f256ac27c55095b1b6fd.jpg",
+    "static/media/fa-brands-400.woff2": "/software_projects/static/media/fa-brands-400.e033a13ee751afc1860c.woff2",
+    "static/media/black_rose.png": "/software_projects/static/media/black_rose.dd56e3c64e429290b3c5.png",
+    "static/media/Lanka_news_icon.png": "/software_projects/static/media/Lanka_news_icon.e8a9c1496b5a8f32746a.png",
+    "static/media/fa-regular-400.ttf": "/software_projects/static/media/fa-regular-400.d87474231f4192884802.ttf",
+    "static/media/fa-regular-400.woff2": "/software_projects/static/media/fa-regular-400.3223dc79c1adee56370b.woff2",
+    "static/media/loading.jpg": "/software_projects/static/media/loading.ffc79a63eea0c80161af.jpg",
+    "static/media/fa-v4compatibility.ttf": "/software_projects/static/media/fa-v4compatibility.0e3a648be390bd8cb094.ttf",
+    "static/media/fa-v4compatibility.woff2": "/software_projects/static/media/fa-v4compatibility.68577e40f3e70067b5da.woff2",
+    "static/media/logo.svg": "/software_projects/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/software_projects/index.html",
+    "main.9b1b088a.css.map": "/software_projects/static/css/main.9b1b088a.css.map",
+    "main.30af3de2.js.map": "/software_projects/static/js/main.30af3de2.js.map",
+    "787.c5eca2a4.chunk.js.map": "/software_projects/static/js/787.c5eca2a4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9b1b088a.css",
+    "static/js/main.30af3de2.js"
+  ]
+}
